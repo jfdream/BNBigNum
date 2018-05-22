@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.license = "LGPL"
 
   spec.version = "6.1.1.6"
-  spec.source = { :http => 'https://github.com/jfdream/BNBigNum/blob/master/gmp-6.1.1.tar.bz2' }
+  spec.source = { :http => 'https://github.com/jfdream/BNBigNum/blob/master/gmp-6.1.1.tar' }
 
   spec.platform = :ios
   spec.ios.deployment_target = '8.0'
